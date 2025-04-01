@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Guilherme Marques! 👋
 
-<!--
-**Guimarques-TI/Guimarques-Ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do último semestre de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvedor Full Stack com foco em consultoria de TI. Tenho experiência prática em projetos com tecnologias modernas, criando soluções eficientes e escaláveis.
 
-Here are some ideas to get you started:
+## 🔧 Habilidades
+- **Linguagens:** Python, JavaScript, HTML5, CSS3  
+- **Frameworks:** React, Node.js, Express  
+- **Banco de Dados:** MySQL  
+- **Ferramentas:** Git, Docker, Postman  
+- **Metodologias:** Agile, Scrum  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em Destaque
+- **[TaskFlow](#):** Sistema de gerenciamento de tarefas com React, Node.js e MySQL.  
+- **[ShopAPI](#):** API RESTful para e-commerce, desenvolvida com Express e testada no Postman.  
+- **[DataTrack](#):** Dashboard interativo com React e gráficos dinâmicos.
+
+## 📫 Como me encontrar
+- **LinkedIn:** [linkedin.com/in/joaosilva-ti](#)  
+- **Email:** guilherm.marquess@gmail.com  
+
+Estou sempre aprendendo e aberto a colaborar em projetos de TI!
